@@ -20,4 +20,4 @@ Follow along the tutorial using the sample notebook from the GTC session:
 ## Additional Resources
  * [Pixar's USD](https://graphics.pixar.com/usd)
  * [USD at NVIDIA](https://usd.nvidia.com)
- * [USD training content on _NVIDIA On-Demand_](https://www.nvidia.com/en-us/on-demand/search/?facet.mimetype[]=event%20session&page=1&q=usd&sort=date)
+ * [USD training content on _NVIDIA On-Demand_](https://www.nvidia.com/en-us/on-demand/playlist/playList-911c5614-4b7f-4668-b9eb-37f627ac8d17/)
