@@ -15,5 +15,5 @@ Should you prefer to run the notebook on your local machine instead, simply down
 Follow along the tutorial using the sample notebook from the GTC session:
 
 |Notebook|Google Colab link|
-|--------|:-----------------:|
+|--------|:----------------:|
 |Introduction to USD|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA-Omniverse/USD-Tutorials-And-Examples/blob/main/ColaboratoryNotebooks/usd_introduction.ipynb)|
