@@ -11,11 +11,14 @@ For convenience, the Jupyter notebook from the GTC session is available on Googl
 Should you prefer to run the notebook on your local machine instead, simply download and execute it after [installing Jupyter](https://jupyter.org).
 
 ## Sample Notebook
-Follow along the tutorial using the sample notebook from the GTC session:
+Follow along the tutorial using the sample notebook from the GTC session, or get acquainted with USD using other examples:
 
 |Notebook|Google Colab link|
 |--------|:----------------:|
 |Introduction to USD|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA-Omniverse/USD-Tutorials-And-Examples/blob/main/ColaboratoryNotebooks/usd_introduction.ipynb)|
+|Opening USD Stages|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA-Omniverse/USD-Tutorials-And-Examples/blob/main/ColaboratoryNotebooks/opening_stages.ipynb)|
+|Prims, Attributes and Metadata|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA-Omniverse/USD-Tutorials-And-Examples/blob/main/ColaboratoryNotebooks/prims_attributes_and_metadata.ipynb)|
+|Hierarchy and Traversal|[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NVIDIA-Omniverse/USD-Tutorials-And-Examples/blob/main/ColaboratoryNotebooks/hierarchy_and_traversal.ipynb)|
 
 ## Additional Resources
  * [Pixar's USD](https://graphics.pixar.com/usd)
