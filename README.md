@@ -11,7 +11,7 @@ For convenience, the Jupyter notebook from the GTC session is available on Googl
 Should you prefer to run the notebook on your local machine instead, simply download and execute it after [installing Jupyter](https://jupyter.org).
 
 ## Sample Notebook
-Follow along the tutorial using the sample notebook from the GTC session:
+Follow along the tutorial using the sample notebook from the GTC session, or get acquainted with USD using other examples:
 
 |Notebook|Google Colab link|
 |--------|:----------------:|
