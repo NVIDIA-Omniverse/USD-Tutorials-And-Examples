@@ -1,9 +1,9 @@
 # OpenUSD Tutorials and Examples
 
 > ## Note
-> For interactive learning experiences, consider enrolling in free curriculum for developers and 3D practicioners on [NVIDIA DLI](https://www.nvidia.com/en-us/learn/learning-path/openusd/).
+> Consider enrolling in NVIDIA's free curriculum on the [Deep Learning Institute (DLI)](https://www.nvidia.com/en-us/learn/learning-path/openusd/) platform for an interactive learning experience.
 >
-> Courses hosted on the DLI platform cover OpenUSD fundamentals as well as applied concepts, from comprehensive introductions to essential concepts and best practices up to advanced topics preparing developers and creators to use OpenUSD effectively in practical workflows.
+> Designed for developers and 3D practitioners, these courses cover the fundamentals of OpenUSD as well as practical applications. The curriculum offers a structured path from introductory concepts and best practices to advanced topics, equipping participants with the skills needed to confidently apply OpenUSD in real-world workflows.
 
 ## About
 This project showcases educational material for [Pixar's Universal Scene Description](https://graphics.pixar.com/usd/docs/index.html) (OpenUSD).
