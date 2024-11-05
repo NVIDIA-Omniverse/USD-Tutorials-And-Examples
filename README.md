@@ -28,4 +28,4 @@ Follow along the tutorial using the sample notebook from the GTC session, or get
 ## Additional Resources
  * [Pixar's OpenUSD](https://openusd.org/release/index.html)
  * [OpenUSD at NVIDIA](https://www.nvidia.com/en-us/omniverse/usd/)
- * [OpenUSD training content on _NVIDIA On-Demand_](https://www.nvidia.com/en-us/on-demand/playlist/playList-911c5614-4b7f-4668-b9eb-37f627ac8d17/)
+ * [OpenUSD training content on _NVIDIA On-Demand_](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s33132/?playlistId=playList-911c5614-4b7f-4668-b9eb-37f627ac8d17)
