@@ -3,12 +3,14 @@
 ## :information_source: Content Moved
 The content previously hosted in this repository has been migrated to the [NVIDIA Learning Path for OpenUSD](https://www.nvidia.com/en-us/learn/learning-path/openusd/). This repository remains available in read-only mode for historical reference.
 
-For the most up-to-date tutorials, examples, and learning materials, we encourage you to explore the Learning Path. Designed for developers and 3D practitioners, these free online courses cover the fundamentals of OpenUSD as well as practical applications. The curriculum offers a structured path from introductory concepts and best practices to advanced topics, equipping participants with the skills needed to confidently apply OpenUSD in real-world workflows.
+For the most up-to-date tutorials, examples, and learning materials, we encourage you to explore the Learning Path.
+
+Designed for developers and 3D practitioners, these free online courses cover the fundamentals of OpenUSD as well as practical applications. The curriculum offers a structured path from introductory concepts and best practices to advanced topics, equipping participants with the skills needed to confidently apply OpenUSD in real-world workflows.
 
 ---
 
 <details>
-<summary>Click for details about historical Jupyter Notebooks</summary>
+<summary>Click here for details about historical Jupyter Notebooks</summary>
 
 ## About
 This project showcases educational material for [Pixar's Universal Scene Description](https://graphics.pixar.com/usd/docs/index.html) (OpenUSD).
